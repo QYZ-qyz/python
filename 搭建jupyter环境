@@ -1,0 +1,4 @@
+#如何把jupyter创建到其他文件夹里？
+（1）在anaconda里搭建虚拟环境：conda create -n jupyter python=3.6
+（2）调用环境：activate jupyter
+（3）cd 到文件夹，打开jupyter notebook
